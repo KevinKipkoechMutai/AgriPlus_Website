@@ -192,3 +192,62 @@ a:hover{
     padding: 0px;
     margin-right: 100px;
 }
+
+.products{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    align-items: center;
+    float: none;
+}
+
+.products h1{
+    text-decoration: underline;
+    text-decoration-color: #ed661f;
+}
+
+.products p{
+    font-weight: lighter;
+    width: 400px;
+}
+
+.popular{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.popular h1{
+    text-decoration: underline;
+    float: left;
+    text-decoration-color: #ed661f;
+}
+
+.produce{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    margin: 20px;
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-radius: 5px;
+}
+
+.list img{
+    height: 200px;
+    width: 250px;
+}
+
+.light{
+    font-weight: lighter;
+}
+
+.list:hover{
+    background-color: aqua;
+}
