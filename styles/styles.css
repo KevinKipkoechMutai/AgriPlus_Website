@@ -251,3 +251,18 @@ a:hover{
 .list:hover{
     background-color: aqua;
 }
+
+.see-all{
+    text-decoration: underline;
+    text-decoration-color: #ed661f;
+    float: right;
+    margin: 20px;
+    clear: left;
+    height: 50px;
+}
+
+.feedback{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
