@@ -141,6 +141,7 @@ a:hover{
     margin-bottom: 100px;
     justify-content: space-between;
     margin-right: 100px;
+    clear: left;
 }
 
 .content{
@@ -150,4 +151,44 @@ a:hover{
     text-align: center;
     margin-left: 25px;
     margin-right: 25px;
+}
+
+.statement{
+    display: flex;
+    flex-direction: row;
+    clear: right;
+    margin-top: 10px;
+    justify-content: space-between;
+    
+}
+
+.left-1{
+    float: left;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 150px;
+    width: 500px;
+}
+
+.left-1 h1{
+    text-decoration: underline;
+    text-decoration-color: #ed661f;
+    display: inline-block;
+    padding-right: -50px;
+}
+
+.left-1 p{
+    font-weight: lighter;
+}
+
+.right-1{
+    margin-left: 100px;
+}
+
+.right-1 img{
+    float: right;
+    height: 400px;
+    width: 800px;
+    padding: 0px;
+    margin-right: 100px;
 }
