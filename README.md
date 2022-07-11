@@ -27,7 +27,9 @@ By Kevin Kipkoech
 The main purpose of this website is to connect local farmers to markets through the Internet. One can order from a wide variety of options made available by Kenyan farmers. 
 ## **Installation Requirements**
 To install and run this project, you need:
--a laptop with a pre-installed operating system.
+
+-a laptop with a pre-installed operating system
+
 -Internet connection
 ## **Installation Process**
 1. Clone the project onto your computer using the git clone command. Remember to use my repository address as the source. 
