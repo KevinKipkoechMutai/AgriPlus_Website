@@ -35,7 +35,7 @@ To install and run this project, you need:
 1. Clone the project onto your computer using the git clone command. Remember to use my repository address as the source. 
 2. After ensuring you have all the html and css files, navigate to the root folder and find the files. 
 3. Copy the path of the index.html file. Paste and load it on the browser to view my sample webpage. 
-4. Alternatively, you can see the website through this gh-pages link: https://kevinkipkoechmutai.github.io/Vallies_Estate/ 
+4. Alternatively, you can see the website through this gh-pages link: https://kevinkipkoechmutai.github.io/AgriPlus_Website/ 
 ## **Technology Used**
 -HTML: Used to construct the page's structure and add content.
 
