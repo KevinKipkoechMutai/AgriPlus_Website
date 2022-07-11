@@ -278,6 +278,25 @@ a:hover{
 
 .testimonials{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-around;
 }
+
+.farmer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.name{
+    width: 300px;
+    padding: auto;
+    background-color: beige;
+    box-shadow: inset gray;
+    border-radius: 4px;
+}
+
+.name:hover{
+    background-color: aqua;
+}
+
