@@ -237,7 +237,7 @@ a:hover{
 .list{
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-between;
     border-radius: 5px;
 }
 
@@ -258,16 +258,26 @@ a:hover{
     text-decoration: underline;
     text-decoration-color: #ed661f;
     float: right;
-    margin: 20px;
-    width: 100%;
-    height: 50px;
-    padding: 10px;
-    box-sizing: border-box;
-    position: inherit;
+    clear: left;
+}
+
+.read-more{
+    text-decoration: underline;
+    text-decoration-color: #ed661f;
+    float: right;
+    clear: left;
+    display: inline-block;
 }
 
 .feedback{
-    background-color: black;
-    color: white;
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    clear: right;
+}
+
+.testimonials{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 }
