@@ -352,5 +352,14 @@ footer{
 .shortcuts{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    float: right;
+    margin-left: 400px;
+    width: 600px;
+}
+
+.listed{
+    display: flex;
+    flex-direction: column;
     justify-content: space-around;
 }
