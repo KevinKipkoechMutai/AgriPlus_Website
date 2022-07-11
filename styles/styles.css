@@ -329,9 +329,28 @@ footer{
     display: flex;
     flex-direction: column;
     background-color: black;
-    color: black;
+    color: white;
+    margin-top: 10px;
 }
 
 .bottom{
     text-align: center;
+}
+
+.sections{
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+}
+
+.agriplus{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.shortcuts{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
